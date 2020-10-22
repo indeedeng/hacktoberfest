@@ -18,6 +18,10 @@ We released a [case study](Indeed%20Hacktoberfest%202019%20Case%20Study.pdf) tha
 
 We released a [demo app](https://github.com/indeedeng/Mariner-Issue-Collector) of our [Mariner](https://github.com/indeedeng/Mariner) library that can help you identify good Hacktoberfest issues for your own organization 
 
+### Open Source Study Hall
+
+We often run Open Source Study Hall events during Hacktoberfest. We have published a [checklist](https://github.com/indeedeng-alpha/open-source-study-hall/) that helps make these study halls effective and welcoming.
+
 ## Getting Help
 
 Please open an issue if you have any questions
